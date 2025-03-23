@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jan-novak",
+    "name": "Jan Novák",
+    "image": "images/authors/jan-novak.jpg",
+    "genre": "Próza, román"
+  },
+  {
+    "id": "petra-svobodova",
+    "name": "Petra Svobodová",
+    "image": "images/authors/petra-svobodova.jpg",
+    "genre": "Poezie, překlad"
+  },
+  {
+    "id": "tomas-cerny",
+    "name": "Tomáš Černý",
+    "image": "images/authors/tomas-cerny.jpg",
+    "genre": "Scenáristika, drama"
+  },
+  {
+    "id": "lucie-kralova",
+    "name": "Lucie Králová",
+    "image": "images/authors/lucie-kralova.jpg",
+    "genre": "Literatura pro děti"
+  },
+  {
+    "id": "karel-maly",
+    "name": "Karel Malý",
+    "image": "images/authors/karel-maly.jpg",
+    "genre": "Eseje, kritika"
+  },
+  {
+    "id": "monika-vesela",
+    "name": "Monika Veselá",
+    "image": "images/authors/monika-vesela.jpg",
+    "genre": "Fantasy, sci-fi"
+  }
+]
