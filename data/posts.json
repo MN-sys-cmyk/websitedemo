@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vzpominky-na-detstvi",
+    "title": "Vzpomínky na dětství: Nová próza Jana Nováka",
+    "authorId": "jan-novak",
+    "date": "2025-03-23",
+    "category": "Povídka",
+    "excerpt": "Jan Novák dokončil novou povídku o dospívání na malém městě, která kombinuje autobiografické prvky s fikcí. Přemýšlí, jak citlivě pracovat s reálnými zážitky, aniž by narušil soukromí skutečných osob.",
+    "image": "images/posts/vzpominky.jpg",
+    "featured": true
+  },
+  {
+    "id": "koncepce-basnicke-sbirky",
+    "title": "Koncepce nové básnické sbírky",
+    "authorId": "petra-svobodova",
+    "date": "2025-03-22",
+    "category": "Poezie",
+    "excerpt": "Petra Svobodová přemýšlí o struktuře své nové básnické sbírky inspirované ročními obdobími.",
+    "image": "images/posts/basnicka-sbirka.jpg",
+    "featured": false
+  },
+  {
+    "id": "scenar-dokoncen",
+    "title": "První draft scénáře dokončen",
+    "authorId": "tomas-cerny",
+    "date": "2025-03-21",
+    "category": "Scénář",
+    "excerpt": "Tomáš Černý odevzdal první draft scénáře k novému filmu o vztahu otce a syna v době klimatické krize.",
+    "image": "images/posts/scenar.jpg",
+    "featured": false
+  }
+]
